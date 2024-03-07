@@ -25,8 +25,11 @@ https://fastapi.tiangolo.com
 https://sqlmodel.tiangolo.com/
 
 
-1. `python -m venv main`
+1. `python -m venv main` o `virtualenv venv`
 
+2. Activar entorno virtal(Windows): `source venv/bin/activate` o `.\venv\Scripts\activate`
+
+3. para desactivar el entorno usamos `deactivate`
 
 
 
